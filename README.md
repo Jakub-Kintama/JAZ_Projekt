@@ -2,8 +2,7 @@
 
 Projekt na zajęcia z JAZ
 
-Przedstawia stronę internetową z przepisami
-jest inspirowany stroną kuchnialidla.pl/przepisy
+Przedstawia stronę internetową z przepisami, jest inspirowany stroną kuchnialidla.pl/przepisy
 
 Napisany na zaliczenie sesji zimowej 2022
 
