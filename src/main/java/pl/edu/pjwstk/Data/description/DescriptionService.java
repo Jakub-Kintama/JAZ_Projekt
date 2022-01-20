@@ -13,4 +13,8 @@ public class DescriptionService {
     public List<Description> listAll(){
         return (List<Description>) repo.findAll();
     }
+
+    public Description findById(int id){
+        return repo.findById(id).get();
+    }
 }
